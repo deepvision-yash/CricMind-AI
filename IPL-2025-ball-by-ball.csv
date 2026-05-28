@@ -1,486 +1,224 @@
-﻿match_no,match_id,date,venue,winner,batting_team,bowling_team,inning,overs,striker,bowler,delivery,pitching,shot_direction,runs_of_bat,extras,wide,noballs,legbyes,byes,panja,isWicket
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,0.1,Quinton De Kock,Josh Hazlewood,good length,on leg stump,Covers,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,0.2,Quinton De Kock,Josh Hazlewood,short of good length,on leg stump,Extra Cover,4,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,0.3,Quinton De Kock,Josh Hazlewood,Short of good length,outside leg stump,Straight,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,0.4,Quinton De Kock,Josh Hazlewood,Short of good length,on leg stump,,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,0.5,Quinton De Kock,Josh Hazlewood,short of good length,on leg stump,Wicketkeeper,0,0,0,0,0,0,0,1
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,0.6,Ajinkya Rahane,Josh Hazlewood,Good length,outside off stump,Short Mid-Wicket,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,1.1,Sunil Narine,Yash Dayal,short of good length,on off stump,,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,1.2,Sunil Narine,Yash Dayal,Yorker,on leg stump,,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,1.3,Sunil Narine,Yash Dayal,Short of good length,outside off stump,,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,1.4,Sunil Narine,Yash Dayal,Full length,outside off stump,Covers,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,1.5,Sunil Narine,Yash Dayal,Short of good length,outside off stump,Mid-Wicket,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,1.6,Ajinkya Rahane,Yash Dayal,Full length,outside leg stump,Mid-Wicket,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,2.1,Sunil Narine,Josh Hazlewood,Short of good length,outside leg stump,Mid-Wicket,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,2.2,Sunil Narine,Josh Hazlewood,Short of good length,on off stump,,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,2.3,Sunil Narine,Josh Hazlewood,Short of good length,on leg stump,Mid-Wicket,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,2.4,Sunil Narine,Josh Hazlewood,short length,outside leg stump,Wicketkeeper,4,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,2.5,Sunil Narine,Josh Hazlewood,Short of good length,outside leg stump,Mid-On,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,2.6,Sunil Narine,Josh Hazlewood,Short of good length,on off stump,Long-Off,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,3.1,Ajinkya Rahane,Rasikh Dar,short of good length,outside off stump,,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,3.2,Ajinkya Rahane,Rasikh Dar,good length,on leg stump,Deep Fine Leg,4,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,3.3,Ajinkya Rahane,Rasikh Dar,short of good length,outside off stump,Square Leg,6,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,3.4,Ajinkya Rahane,Rasikh Dar,Good length,outside off stump,Covers,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,3.5,Ajinkya Rahane,Rasikh Dar,short of good length,outside off stump,Long-On,6,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,3.6,Ajinkya Rahane,Rasikh Dar,Good length,outside off stump,Short Third Man,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,4.1,Sunil Narine,Krunal Pandya,good length,on off stump,Long-On,6,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,4.2,Sunil Narine,Krunal Pandya,Full length,on leg stump,Wide Long-On,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,4.3,Ajinkya Rahane,Krunal Pandya,Good length,on leg stump,Backward Short Leg,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,4.4,Ajinkya Rahane,Krunal Pandya,Full length,on leg stump,Third Man,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,4.5,Ajinkya Rahane,Krunal Pandya,full length,on leg stump,Deep Square Leg,4,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,4.6,Ajinkya Rahane,Krunal Pandya,full length,on middle stump,Wide Long-On,4,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,5.1,Sunil Narine,Yash Dayal,full length,on leg stump,Mid-On,4,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,5.2,Sunil Narine,Yash Dayal,Good length,outside off stump,Long-On,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,5.3,Ajinkya Rahane,Yash Dayal,full length,on leg stump,Third Man,4,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,5.4,Ajinkya Rahane,Yash Dayal,full length,outside leg stump,Deep Backward Square Leg,6,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,5.5,Ajinkya Rahane,Yash Dayal,full toss,outside off stump,Point,4,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,5.6,Ajinkya Rahane,Yash Dayal,Good length,outside off stump,Deep Backward Point,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,6.1,Ajinkya Rahane,Suyash Sharma,short of good length,outside off stump,,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,6.2,Ajinkya Rahane,Suyash Sharma,good length,outside off stump,Point,4,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,6.3,Ajinkya Rahane,Suyash Sharma,Good length,outside off stump,Forward Point,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,6.4,Ajinkya Rahane,Suyash Sharma,Full length,outside off stump,Mid-Wicket,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,6.5,Ajinkya Rahane,Suyash Sharma,Good length,outside off stump,,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,6.6,Ajinkya Rahane,Suyash Sharma,Good length,outside off stump,Wide Long-Off,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,7.1,Ajinkya Rahane,Rasikh Dar,Good length,on middle stump,Mid-Wicket,0,1,0,0,1,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,7.2,Sunil Narine,Rasikh Dar,Yorker,outside off stump,,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,7.2,Sunil Narine,Rasikh Dar,Good length,wide outside off stump,,0,1,1,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,7.3,Ajinkya Rahane,Rasikh Dar,Short of good length,outside off stump,Long-On,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,7.4,Sunil Narine,Rasikh Dar,Full length,outside off stump,Long-Off,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,7.4,Sunil Narine,Rasikh Dar,Short length,outside off stump,,0,1,1,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,7.5,Sunil Narine,Rasikh Dar,yorker,outside off stump,Third Man,4,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,7.6,Sunil Narine,Rasikh Dar,Short of good length,wide outside off stump,Covers,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,8.1,Ajinkya Rahane,Suyash Sharma,full length,outside off stump,Deep Midwicket,6,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,8.1,Ajinkya Rahane,Suyash Sharma,Full length,outside leg stump,Square Leg,0,1,1,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,8.2,Ajinkya Rahane,Suyash Sharma,Good length,outside off stump,Deep Extra Covers,2,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,8.3,Ajinkya Rahane,Suyash Sharma,Full length,outside off stump,Deep Covers,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,8.4,Sunil Narine,Suyash Sharma,Full length,outside off stump,Long-Off,2,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,8.5,Sunil Narine,Suyash Sharma,full length,outside off stump,Deep Extra Cover,6,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,8.6,Sunil Narine,Suyash Sharma,full length,outside off stump,Straight,4,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,9.1,Ajinkya Rahane,Rasikh Dar,Good length,outside off stump,Mid-Wicket,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,9.2,Ajinkya Rahane,Rasikh Dar,Short length,outside off stump,Deep Mid-Wicket,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,9.3,Sunil Narine,Rasikh Dar,full toss,on leg stump,Deep Extra Cover,4,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,9.4,Sunil Narine,Rasikh Dar,Short of good length,outside off stump,,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,9.5,Sunil Narine,Rasikh Dar,short of good length,outside off stump,Wide Long-On,6,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,9.6,Sunil Narine,Rasikh Dar,good length,outside off,Wicketkeeper,0,0,0,0,0,0,0,1
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,10.1,Ajinkya Rahane,Krunal Pandya,Good length,outside off stump,Country,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,10.2,Venkatesh Iyer,Krunal Pandya,Good length,outside leg stump,Country,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,10.3,Ajinkya Rahane,Krunal Pandya,good length,on leg stump,Mid-Wicket,0,0,0,0,0,0,0,1
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,10.4,Angkrish Raghuvanshi,Krunal Pandya,Good length,on leg stump,Short Square Leg,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,10.5,Venkatesh Iyer,Krunal Pandya,Good length,on leg stump,Mid-Wicket,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,10.6,Venkatesh Iyer,Krunal Pandya,Full length,outside leg stump,Mid-Wicket,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,11.1,Angkrish Raghuvanshi,Suyash Sharma,Full length,on off stump,Deep Mid-Wicket,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,11.2,Venkatesh Iyer,Suyash Sharma,Full length,outside off stump,Forward Point,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,11.3,Venkatesh Iyer,Suyash Sharma,good length,outside leg stump,Deep Backward Square Leg,4,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,11.4,Venkatesh Iyer,Suyash Sharma,Good length,on off stump,Cover,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,11.5,Angkrish Raghuvanshi,Suyash Sharma,full length,outside off stump,Long Off,4,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,11.6,Angkrish Raghuvanshi,Suyash Sharma,good length,outside off stump,Deep Point,4,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,12.1,Venkatesh Iyer,Krunal Pandya,good length,on leg stump,Long-On,0,0,0,0,0,0,0,1
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,12.1,Venkatesh Iyer,Krunal Pandya,Short length,outside leg stump,,0,1,1,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,12.2,Rinku Singh,Krunal Pandya,Full length,on off stump,Long-Off,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,12.3,Angkrish Raghuvanshi,Krunal Pandya,Good length,on middle stump,Mid-Wicket,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,12.4,Rinku Singh,Krunal Pandya,Good length,on middle stump,Short Third Man,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,12.5,Angkrish Raghuvanshi,Krunal Pandya,Good length,outside off stump,Wide Long-On,2,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,12.6,Angkrish Raghuvanshi,Krunal Pandya,Full length,outside off stump,Deep Mid-Wicket,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,13.1,Angkrish Raghuvanshi,Liam Livingstone,good length,on off stump,Point,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,13.2,Rinku Singh,Liam Livingstone,Good length,outside off stump,Wide Long-On,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,13.3,Angkrish Raghuvanshi,Liam Livingstone,Good length,on off stump,Deep Mid-Wicket,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,13.4,Rinku Singh,Liam Livingstone,good length,outside off stump,Long-On,4,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,13.5,Rinku Singh,Liam Livingstone,Full length,on off stump,Deep Mid-Wicket,2,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,13.6,Rinku Singh,Liam Livingstone,Good length,on off stump,Deep Square Leg,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,14.1,Rinku Singh,Krunal Pandya,Good length,on leg stump,Mid-Wicket,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,14.2,Angkrish Raghuvanshi,Krunal Pandya,Good length,outside off stump,Deep Mid-Wicket,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,14.3,Rinku Singh,Krunal Pandya,Good length,outside leg stump,,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,14.4,Rinku Singh,Krunal Pandya,Good length,on middle stump,Country,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,14.5,Angkrish Raghuvanshi,Krunal Pandya,Good length,outside off stump,Long-On,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,14.6,Rinku Singh,Krunal Pandya,good length,on leg stump,Mid-Wicket,0,0,0,0,0,0,0,1
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,15.1,Angkrish Raghuvanshi,Suyash Sharma,Good length,outside off stump,Deep Covers,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,15.2,Andre Russell,Suyash Sharma,Full length,on off stump,Mid-On,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,15.3,Andre Russell,Suyash Sharma,good length,outside off stump,Point,4,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,15.4,Andre Russell,Suyash Sharma,full length,outside off stump,Cow Corner,0,0,0,0,0,0,0,1
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,15.5,Ramandeep Singh,Suyash Sharma,Full length,outside off stump,Mid-On,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,15.6,Ramandeep Singh,Suyash Sharma,Full length,on middle stump,Mid-Wicket,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,16.1,Ramandeep Singh,Liam Livingstone,good length,on off stump,Wide Long-On,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,16.2,Angkrish Raghuvanshi,Liam Livingstone,Good length,on leg stump,Deep Mid-Wicket,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,16.3,Ramandeep Singh,Liam Livingstone,Good length,on off stump,Short Extra Covers,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,16.4,Angkrish Raghuvanshi,Liam Livingstone,Good length,on leg stump,,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,16.5,Angkrish Raghuvanshi,Liam Livingstone,Good length,outside off stump,Long-On,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,16.6,Ramandeep Singh,Liam Livingstone,Good length,outside off stump,Forward Point,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,17.1,Angkrish Raghuvanshi,Josh Hazlewood,short length,outside off stump,Mid-Wicket,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,17.2,Angkrish Raghuvanshi,Josh Hazlewood,Short of good length,outside off stump,Mid-Wicket,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,17.3,Ramandeep Singh,Josh Hazlewood,Short of good length,outside off stump,Long-On,0,1,0,0,1,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,17.4,Angkrish Raghuvanshi,Josh Hazlewood,short of good length,outside off stump,Long-On,6,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,17.5,Angkrish Raghuvanshi,Josh Hazlewood,Short of good length,outside off stump,Long-On,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,17.6,Ramandeep Singh,Josh Hazlewood,Yorker,outside off stump,Square Third Man,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,18.1,Ramandeep Singh,Yash Dayal,Short of good length,on off stump,Covers,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,18.2,Angkrish Raghuvanshi,Yash Dayal,Short length,outside leg stump,Deep Mid-Wicket,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,18.3,Ramandeep Singh,Yash Dayal,Good length,outside leg stump,Deep Mid-Wicket,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,18.4,Angkrish Raghuvanshi,Yash Dayal,Full length,outside off stump,Mid-Off,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,18.5,Angkrish Raghuvanshi,Yash Dayal,short length,outside leg stump,Wicketkeeper,0,0,0,0,0,0,0,1
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,18.6,Harshit Rana,Yash Dayal,Good length,on leg stump,Deep Forward Point,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,19.1,Harshit Rana,Josh Hazlewood,Short length,outside off stump,Mid-Wicket,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,19.2,Harshit Rana,Josh Hazlewood,Short length,outside off stump,Mid-Wicket,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,19.3,Harshit Rana,Josh Hazlewood,Short length,outside off stump,Mid-Wicket,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,19.4,Harshit Rana,Josh Hazlewood,short length,outside off stump,Fine Leg,4,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,19.5,Harshit Rana,Josh Hazlewood,short length,outside off stump,Wicketkeeper,0,0,0,0,0,0,0,1
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,19.6,Spencer Johnson,Josh Hazlewood,Short of good length,outside leg stump,Mid-Wicket,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,0.1,Phil Salt,Vaibhav Arora,good length,outside off stump,Extra Cover,4,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,0.2,Phil Salt,Vaibhav Arora,Good length,outside off stump,Long-On,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,0.2,Phil Salt,Vaibhav Arora,Full length,on leg stump,,0,1,1,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,0.3,Phil Salt,Vaibhav Arora,Good length,outside off stump,Covers,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,0.4,Phil Salt,Vaibhav Arora,Full length,on middle stump,Mid-On,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,0.5,Virat Kohli,Vaibhav Arora,full length,outside off stump,Mid-Wicket,4,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,0.6,Virat Kohli,Vaibhav Arora,Full length,outside off stump,Square Third Man,2,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,1.1,Phil Salt,Spencer Johnson,full length,outside off stump,Long-Off,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,1.2,Phil Salt,Spencer Johnson,Good length,on middle stump,Cover,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,1.3,Phil Salt,Spencer Johnson,good length,on middle stump,Cover Point,4,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,1.4,Phil Salt,Spencer Johnson,Good length,on leg stump,Short Extra Covers,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,1.5,Phil Salt,Spencer Johnson,Full length,outside off stump,Mid-On,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,1.6,Phil Salt,Spencer Johnson,Short of good length,outside leg stump,Mid-Wicket,0,1,0,0,1,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,2.1,Phil Salt,Vaibhav Arora,full length,outside off stump,Mid-On,4,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,2.2,Phil Salt,Vaibhav Arora,full length,outside off stump,Long-On,6,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,2.3,Phil Salt,Vaibhav Arora,Full length,outside off stump,Deep Square Leg,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,2.4,Virat Kohli,Vaibhav Arora,good length,outside off stump,Straight,4,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,2.5,Virat Kohli,Vaibhav Arora,Full length,outside off stump,Extra Covers,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,2.6,Phil Salt,Vaibhav Arora,short length,outside off stump,Cover Point,4,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,3.1,Virat Kohli,Varun Chakaravarthy,good length,outside off stump,Long-On,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,3.2,Phil Salt,Varun Chakaravarthy,Good length,on off stump,Short Fine Leg,2,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,3.3,Phil Salt,Varun Chakaravarthy,good length,outside off stump,Long Off,4,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,3.4,Phil Salt,Varun Chakaravarthy,full length,on leg stump,Mid-Off,6,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,3.5,Phil Salt,Varun Chakaravarthy,full length,outside off stump,Mid-On,4,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,3.6,Phil Salt,Varun Chakaravarthy,good length,on leg stump,Fine Leg,4,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,4.1,Virat Kohli,Spencer Johnson,full length,outside off stump,Long Off,6,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,4.2,Virat Kohli,Spencer Johnson,full length,outside off stump,Straight,6,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,4.3,Virat Kohli,Spencer Johnson,Full length,outside off stump,Mid-On,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,4.4,Virat Kohli,Spencer Johnson,Short length,outside leg stump,Deep Square Leg,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,4.5,Phil Salt,Spencer Johnson,Short of good length,outside leg stump,Point,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,4.6,Phil Salt,Spencer Johnson,short of good length,outside leg stump,Deep Third Man,4,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,5.1,Virat Kohli,Harshit Rana,Short of good length,outside off stump,Cover,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,5.2,Virat Kohli,Harshit Rana,Short of good length,outside off stump,Mid-Off,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,5.3,Phil Salt,Harshit Rana,Good length,outside leg stump,Long-On,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,5.4,Phil Salt,Harshit Rana,Short length,outside off stump,Deep Mid-Wicket,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,5.5,Virat Kohli,Harshit Rana,Good length,outside off stump,Cover,2,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,5.6,Virat Kohli,Harshit Rana,Short of good length,outside off stump,Square Third Man,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,6.1,Virat Kohli,Varun Chakaravarthy,Good length,outside off stump,,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,6.2,Virat Kohli,Varun Chakaravarthy,full length,on off stump,Deep Midwicket,4,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,6.3,Virat Kohli,Varun Chakaravarthy,Good length,on leg stump,Deep Backward Square Leg,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,6.4,Phil Salt,Varun Chakaravarthy,Good length,outside off stump,,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,6.5,Phil Salt,Varun Chakaravarthy,Full length,outside off stump,Long-Off,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,6.6,Virat Kohli,Varun Chakaravarthy,Full length,outside off stump,Short Extra Covers,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,7.1,Phil Salt,Sunil Narine,Full length,on leg stump,Square Leg,0,1,0,0,1,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,7.2,Virat Kohli,Sunil Narine,Full length,on off stump,Backward Short Leg,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,7.3,Virat Kohli,Sunil Narine,Good length,outside off stump,Deep Mid-Wicket,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,7.4,Phil Salt,Sunil Narine,Good length,outside off stump,Long-Off,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,7.5,Virat Kohli,Sunil Narine,Good length,outside off stump,Country,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,7.6,Phil Salt,Sunil Narine,Good length,outside off stump,Deep Covers,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,8.1,Phil Salt,Varun Chakaravarthy,good length,outside off stump,Deep Square Leg,4,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,8.2,Phil Salt,Varun Chakaravarthy,Good length,outside off stump,,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,8.3,Phil Salt,Varun Chakaravarthy,full length,outside off stump,,0,0,0,0,0,0,0,1
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,8.4,Devdutt Padikkal,Varun Chakaravarthy,Good length,outside off stump,,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,8.5,Devdutt Padikkal,Varun Chakaravarthy,Good length,outside off stump,,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,8.6,Devdutt Padikkal,Varun Chakaravarthy,Good length,on middle stump,Country,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,9.1,Devdutt Padikkal,Sunil Narine,Good length,on off stump,Wide Long-On,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,9.2,Virat Kohli,Sunil Narine,Good length,on off stump,,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,9.3,Virat Kohli,Sunil Narine,Full length,on off stump,Deep Mid-Wicket,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,9.4,Devdutt Padikkal,Sunil Narine,Good length,outside off stump,Wide Long-On,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,9.5,Virat Kohli,Sunil Narine,Good length,on off stump,Deep Mid-Wicket,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,9.6,Devdutt Padikkal,Sunil Narine,good length,outside off stump,Country,4,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,10.1,Virat Kohli,Varun Chakaravarthy,Good length,outside off stump,Deep Point,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,10.2,Devdutt Padikkal,Varun Chakaravarthy,Full length,outside off stump,Wide Long-On,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,10.3,Virat Kohli,Varun Chakaravarthy,full length,outside off stump,Wide Long-On,6,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,10.4,Virat Kohli,Varun Chakaravarthy,Good length,outside off stump,Mid-Wicket,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,10.5,Devdutt Padikkal,Varun Chakaravarthy,Good length,outside leg stump,Deep Square Leg,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,10.6,Virat Kohli,Varun Chakaravarthy,Good length,outside off stump,Point,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,11.1,Virat Kohli,Sunil Narine,Good length,outside off stump,Deep Covers,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,11.2,Devdutt Padikkal,Sunil Narine,Good length,outside off stump,Deep Mid-Wicket,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,11.3,Virat Kohli,Sunil Narine,Full length,outside off stump,Deep Mid-Wicket,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,11.4,Devdutt Padikkal,Sunil Narine,full length,outside off stump,Straight,0,0,0,0,0,0,0,1
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,11.5,Rajat Patidar,Sunil Narine,Good length,on leg stump,Short Mid-Wicket,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,11.6,Rajat Patidar,Sunil Narine,Full length,on middle stump,Deep Mid-Wicket,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,12.1,Rajat Patidar,Harshit Rana,Short of good length,outside off stump,,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,12.2,Rajat Patidar,Harshit Rana,Short of good length,outside off stump,,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,12.3,Rajat Patidar,Harshit Rana,Full length,on off stump,Country,2,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,12.4,Rajat Patidar,Harshit Rana,Full length,outside off stump,Country,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,12.5,Virat Kohli,Harshit Rana,good length,outside off stump,Extra Cover,4,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,12.6,Virat Kohli,Harshit Rana,Good length,outside off stump,Short Extra Covers,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,13.1,Virat Kohli,Sunil Narine,Good length,on off stump,Mid-Wicket,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,13.2,Rajat Patidar,Sunil Narine,full length,outside off stump,Long-On,6,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,13.3,Rajat Patidar,Sunil Narine,Good length,on leg stump,Deep Square Leg,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,13.4,Virat Kohli,Sunil Narine,Good length,on off stump,Deep Mid-Wicket,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,13.5,Rajat Patidar,Sunil Narine,Good length,outside off stump,Deep Forward Square Leg,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,13.6,Virat Kohli,Sunil Narine,Good length,outside off stump,Country,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,14.1,Virat Kohli,Harshit Rana,Good length,outside off stump,Long-On,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,14.2,Rajat Patidar,Harshit Rana,good length,outside off stump,Extra Cover,4,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,14.3,Rajat Patidar,Harshit Rana,good length,on off stump,Short Fine Leg,4,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,14.4,Rajat Patidar,Harshit Rana,Short of good length,outside off stump,Square Fine Leg,2,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,14.5,Rajat Patidar,Harshit Rana,good length,outside off stump,Backward Point,4,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,14.6,Rajat Patidar,Harshit Rana,short of good length,outside off stump,Backward Point,4,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,15.1,Virat Kohli,Vaibhav Arora,Good length,outside off stump,Mid-Off,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,15.2,Rajat Patidar,Vaibhav Arora,short of good length,outside off stump,Third Man,4,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,15.3,Rajat Patidar,Vaibhav Arora,good length,outside off stump,Straight,0,0,0,0,0,0,0,1
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,15.4,Liam Livingstone,Vaibhav Arora,short length,outside off stump,Square Leg,4,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,15.5,Liam Livingstone,Vaibhav Arora,Good length,outside off stump,Long-On,0,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,15.6,Liam Livingstone,Vaibhav Arora,Short of good length,outside off stump,Deep Forward Point,1,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,16.1,Liam Livingstone,Spencer Johnson,short length,outside leg stump,Fine Leg,6,0,0,0,0,0,0,0
-1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,16.2,Liam Livingstone,Spencer Johnson,full length,outside off stump,Mid-On,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,0.1,Abhishek Sharma,Fazalhaq Farooqi,good length,on off stump,Mid-On,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,0.2,Abhishek Sharma,Fazalhaq Farooqi,Yorker,on off stump,,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,0.3,Abhishek Sharma,Fazalhaq Farooqi,full toss,on off stump,Long-Off,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,0.4,Abhishek Sharma,Fazalhaq Farooqi,good length,on off stump,Cover,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,0.5,Abhishek Sharma,Fazalhaq Farooqi,Full length,on off stump,Deep Square Leg,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,0.6,Travis Head,Fazalhaq Farooqi,Full toss,on off stump,Deep Forward Square Leg,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,1.1,Travis Head,Maheesh Theekshana,Good length,wide outside off stump,Wide Long-Off,2,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,1.1,Travis Head,Maheesh Theekshana,Good length,wide outside off stump,,0,1,1,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,1.1,Travis Head,Maheesh Theekshana,good length,outside off stump,Covers,0,1,0,1,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,1.2,Travis Head,Maheesh Theekshana,Good length,outside off stump,Cover Point,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,1.3,Travis Head,Maheesh Theekshana,Good length,outside off stump,Mid-Off,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,1.4,Travis Head,Maheesh Theekshana,good length,outside off stump,Deep Forward Point,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,1.5,Travis Head,Maheesh Theekshana,good length,outside off stump,Long Off,6,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,1.6,Travis Head,Maheesh Theekshana,Full length,outside off stump,Covers,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,2.1,Abhishek Sharma,Fazalhaq Farooqi,short length,outside off stump,Deep Backward Point,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,2.2,Abhishek Sharma,Fazalhaq Farooqi,good length,on off stump,Long Off,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,2.3,Abhishek Sharma,Fazalhaq Farooqi,short of good length,outside off stump,Country,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,2.4,Abhishek Sharma,Fazalhaq Farooqi,Full toss,on leg stump,Deep Mid-Wicket,2,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,2.5,Abhishek Sharma,Fazalhaq Farooqi,Full toss,on off stump,Long-On,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,2.6,Travis Head,Fazalhaq Farooqi,full length,outside off stump,Point,6,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,3.1,Abhishek Sharma,Maheesh Theekshana,good length,outside off stump,Straight,0,0,0,0,0,0,0,1
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,3.2,Ishan Kishan,Maheesh Theekshana,Full length,on off stump,Mid-On,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,3.3,Ishan Kishan,Maheesh Theekshana,full length,outside off stump,Wicketkeeper,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,3.4,Ishan Kishan,Maheesh Theekshana,full length,on off stump,Straight,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,3.5,Ishan Kishan,Maheesh Theekshana,Full length,on off stump,Country,2,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,3.6,Ishan Kishan,Maheesh Theekshana,Short of good length,outside off stump,Mid-Wicket,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,4.1,Travis Head,Jofra Archer,short of good length,outside leg stump,Deep Square Leg,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,4.2,Travis Head,Jofra Archer,short of good length,outside leg stump,Deep Square Leg,6,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,4.3,Travis Head,Jofra Archer,Short of good length,outside off stump,Cover,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,4.4,Travis Head,Jofra Archer,short of good length,outside off stump,Deep Cover,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,4.5,Travis Head,Jofra Archer,short of good length,outside off stump,Long Off,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,4.5,Travis Head,Jofra Archer,Short length,outside off stump,,0,1,1,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,4.6,Travis Head,Jofra Archer,good length,on off stump,Long-On,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,5.1,Ishan Kishan,Maheesh Theekshana,good length,outside off stump,Deep Point,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,5.2,Ishan Kishan,Maheesh Theekshana,good length,outside off stump,Cover,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,5.3,Ishan Kishan,Maheesh Theekshana,Yorker,on leg stump,Mid-On,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,5.4,Travis Head,Maheesh Theekshana,Good length,outside off stump,Long-Off,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,5.5,Ishan Kishan,Maheesh Theekshana,Good length,outside off stump,Mid-Wicket,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,5.6,Travis Head,Maheesh Theekshana,full toss,on leg stump,Straight,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,5.6,Travis Head,Maheesh Theekshana,Full length,outside leg stump,Cow Corner,0,1,0,1,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,6.1,Ishan Kishan,Sandeep Sharma,short of good length,outside leg stump,Mid-Wicket,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,6.2,Ishan Kishan,Sandeep Sharma,Good length,on off stump,,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,6.3,Ishan Kishan,Sandeep Sharma,Full length,on leg stump,Long-On,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,6.4,Travis Head,Sandeep Sharma,Full length,on middle stump,Long-On,2,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,6.5,Travis Head,Sandeep Sharma,Full length,on off stump,Long-On,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,6.6,Ishan Kishan,Sandeep Sharma,short length,outside leg stump,Deep Point,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,7.1,Travis Head,Nitish Rana,good length,outside off stump,Long-Off,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,7.2,Ishan Kishan,Nitish Rana,Good length,outside off stump,Long-On,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,7.3,Travis Head,Nitish Rana,good length,outside off stump,Deep Cover,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,7.4,Travis Head,Nitish Rana,Good length,outside off stump,Deep Covers,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,7.5,Ishan Kishan,Nitish Rana,Full length,outside off stump,Wide Long-On,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,7.6,Travis Head,Nitish Rana,Good length,outside off stump,Country,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,8.1,Travis Head,Sandeep Sharma,Short length,outside leg stump,,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,8.2,Travis Head,Sandeep Sharma,Full length,outside leg stump,Deep Backward Square Leg,2,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,8.3,Travis Head,Sandeep Sharma,Yorker,on middle stump,Point,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,8.4,Ishan Kishan,Sandeep Sharma,Full length,outside off stump,Long-Off,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,8.5,Travis Head,Sandeep Sharma,short length,outside leg stump,Deep Point,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,8.6,Travis Head,Sandeep Sharma,Good length,on off stump,Cow Corner,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,9.1,Ishan Kishan,Tushar Deshpande,Short of good length,wide outside off stump,Deep Backward Point,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,9.1,Ishan Kishan,Tushar Deshpande,short of good length,wide outside off stump,,0,1,1,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,9.2,Travis Head,Tushar Deshpande,short length,outside leg stump,Long-On,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,9.2,Travis Head,Tushar Deshpande,Short length,on off stump,,0,1,1,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,9.3,Travis Head,Tushar Deshpande,full length,outside off stump,Mid-Off,0,0,0,0,0,0,0,1
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,9.4,Nitish Kumar Reddy,Tushar Deshpande,Short length,outside off stump,Mid-Wicket,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,9.5,Nitish Kumar Reddy,Tushar Deshpande,short length,outside off stump,Straight,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,9.6,Nitish Kumar Reddy,Tushar Deshpande,Short of good length,outside off stump,Short Extra Covers,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,10.1,Nitish Kumar Reddy,Jofra Archer,Good length,outside off stump,Mid-Off,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,10.2,Ishan Kishan,Jofra Archer,Short length,outside off stump,Deep Third Man,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,10.3,Nitish Kumar Reddy,Jofra Archer,short length,outside off stump,Cover,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,10.4,Nitish Kumar Reddy,Jofra Archer,Short of good length,outside off stump,Short Extra Covers,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,10.5,Ishan Kishan,Jofra Archer,Short length,outside off stump,Mid-Wicket,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,10.6,Nitish Kumar Reddy,Jofra Archer,short length,outside off stump,Country,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,11.1,Ishan Kishan,Tushar Deshpande,Short of good length,outside off stump,Wide Long-On,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,11.2,Nitish Kumar Reddy,Tushar Deshpande,Short length,outside off stump,Deep Mid-Wicket,2,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,11.3,Nitish Kumar Reddy,Tushar Deshpande,Short of good length,outside off stump,Long-On,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,11.4,Ishan Kishan,Tushar Deshpande,Short length,outside off stump,Long-Off,2,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,11.5,Ishan Kishan,Tushar Deshpande,Good length,outside off stump,,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,11.5,Ishan Kishan,Tushar Deshpande,Short of good length,wide outside off stump,,0,1,1,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,11.5,Ishan Kishan,Tushar Deshpande,Short length,outside off stump,Mid-Wicket,0,1,1,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,11.6,Ishan Kishan,Tushar Deshpande,Short length,wide outside off stump,Point,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,12.1,Ishan Kishan,Jofra Archer,short of good length,outside off stump,Fine Leg,6,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,12.2,Ishan Kishan,Jofra Archer,full length,on leg stump,Cover,6,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,12.3,Ishan Kishan,Jofra Archer,Short of good length,outside off stump,Deep Covers,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,12.4,Nitish Kumar Reddy,Jofra Archer,Yorker,on off stump,Long-On,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,12.5,Ishan Kishan,Jofra Archer,full length,on off stump,Cover,6,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,12.5,Ishan Kishan,Jofra Archer,Short length,outside off stump,,0,1,1,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,12.6,Ishan Kishan,Jofra Archer,Full length,outside off stump,Covers,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,13.1,Ishan Kishan,Fazalhaq Farooqi,full length,outside off stump,Deep Backward Square Leg,6,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,13.2,Ishan Kishan,Fazalhaq Farooqi,Full toss,outside off stump,Deep Covers,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,13.3,Nitish Kumar Reddy,Fazalhaq Farooqi,Yorker,outside off stump,,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,13.4,Nitish Kumar Reddy,Fazalhaq Farooqi,short length,outside off stump,Deep Forward Square Leg,6,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,13.5,Nitish Kumar Reddy,Fazalhaq Farooqi,Short length,outside off stump,Long-On,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,13.6,Ishan Kishan,Fazalhaq Farooqi,full toss,on off stump,Deep Square Leg,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,14.1,Nitish Kumar Reddy,Maheesh Theekshana,short of good length,outside off stump,Wicketkeeper,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,14.1,Nitish Kumar Reddy,Maheesh Theekshana,Short of good length,outside off stump,Mid-Wicket,0,1,1,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,14.2,Nitish Kumar Reddy,Maheesh Theekshana,full length,on middle stump,Deep Midwicket,0,0,0,0,0,0,0,1
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,14.2,Nitish Kumar Reddy,Maheesh Theekshana,Good length,outside off stump,,0,1,1,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,14.3,Heinrich Klaasen,Maheesh Theekshana,Good length,outside off stump,Deep Extra Covers,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,14.4,Ishan Kishan,Maheesh Theekshana,Good length,outside off stump,Point,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,14.5,Ishan Kishan,Maheesh Theekshana,full length,outside off stump,Square Third Man,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,14.6,Ishan Kishan,Maheesh Theekshana,Full toss,on leg stump,Country,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,15.1,Ishan Kishan,Tushar Deshpande,full toss,outside off stump,Mid-Off,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,15.2,Ishan Kishan,Tushar Deshpande,Short of good length,outside off stump,Covers,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,15.2,Ishan Kishan,Tushar Deshpande,Full length,outside off stump,Cow Corner,0,1,1,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,15.3,Ishan Kishan,Tushar Deshpande,Full length,outside off stump,Long-Off,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,15.4,Heinrich Klaasen,Tushar Deshpande,short of good length,outside off stump,Short Third Man,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,15.5,Heinrich Klaasen,Tushar Deshpande,Short of good length,outside off stump,Long-Off,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,15.6,Ishan Kishan,Tushar Deshpande,Full length,outside off stump,Mid-Off,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,16.1,Heinrich Klaasen,Sandeep Sharma,Short of good length,outside off stump,Deep Cover,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,16.2,Ishan Kishan,Sandeep Sharma,Short of good length,outside off stump,Long-Off,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,16.3,Heinrich Klaasen,Sandeep Sharma,Short of good length,outside off stump,Deep Covers,2,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,16.4,Heinrich Klaasen,Sandeep Sharma,Yorker,on off stump,Mid-Wicket,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,16.5,Heinrich Klaasen,Sandeep Sharma,short length,outside off stump,Midwicket,6,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,16.6,Heinrich Klaasen,Sandeep Sharma,full length,outside off stump,Point,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,17.1,Ishan Kishan,Jofra Archer,Full length,outside off stump,Long-Off,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,17.1,Ishan Kishan,Jofra Archer,Full toss,outside off stump,,0,5,0,1,0,0,4,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,17.2,Heinrich Klaasen,Jofra Archer,short of good length,outside off stump,Deep Extra Cover,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,17.3,Heinrich Klaasen,Jofra Archer,full toss,outside off stump,Wicketkeeper,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,17.4,Heinrich Klaasen,Jofra Archer,short of good length,outside off stump,Wide Long-Off,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,17.5,Heinrich Klaasen,Jofra Archer,Full length,outside off stump,,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,17.6,Ishan Kishan,Jofra Archer,short of good length,wide outside off stump,Deep Backward Point,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,18.1,Heinrich Klaasen,Sandeep Sharma,Short of good length,outside off stump,Deep Mid-Wicket,2,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,18.2,Heinrich Klaasen,Sandeep Sharma,full length,outside off stump,Long-On,0,0,0,0,0,0,0,1
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,18.3,Aniket Verma,Sandeep Sharma,Short length,outside off stump,Long-Off,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,18.4,Ishan Kishan,Sandeep Sharma,full toss,on off stump,Deep Square Leg,6,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,18.5,Ishan Kishan,Sandeep Sharma,short length,outside leg stump,Fine Leg,6,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,18.6,Ishan Kishan,Sandeep Sharma,full length,on off stump,Long-On,2,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,19.1,Aniket Verma,Tushar Deshpande,short length,outside off stump,Deep Square Leg,6,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,19.2,Aniket Verma,Tushar Deshpande,full length,outside off stump,Deep Midwicket,0,0,0,0,0,0,0,1
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,19.3,Abhinav Manohar,Tushar Deshpande,full toss,on middle stump,,0,0,0,0,0,0,0,1
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,19.4,Pat Cummins,Tushar Deshpande,Short of good length,outside off stump,,0,1,0,0,1,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,19.5,Ishan Kishan,Tushar Deshpande,Full toss,outside off stump,Cover,2,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,SRH,RR,1,19.6,Ishan Kishan,Tushar Deshpande,yorker,outside off stump,Third Man,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,0.1,Yashasvi Jaiswal,Mohammad Shami,good length,outside off stump,Long-Off,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,0.2,Yashasvi Jaiswal,Mohammad Shami,Short of good length,outside off stump,Deep Backward Point,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,0.2,Yashasvi Jaiswal,Mohammad Shami,Short of good length,wide outside off stump,,0,1,1,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,0.3,Sanju Samson,Mohammad Shami,Short of good length,outside off stump,Covers,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,0.4,Sanju Samson,Mohammad Shami,short length,outside off stump,Fine Leg,6,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,0.5,Sanju Samson,Mohammad Shami,short of good length,outside off stump,Cover,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,0.6,Sanju Samson,Mohammad Shami,short of good length,outside off stump,Covers,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,1.1,Yashasvi Jaiswal,Simarjeet Singh,Short of good length,outside leg stump,Mid-Wicket,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,1.2,Yashasvi Jaiswal,Simarjeet Singh,Short length,outside leg stump,Mid-Wicket,0,4,0,0,0,1,3,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,1.3,Yashasvi Jaiswal,Simarjeet Singh,short length,on leg stump,Cover Point,0,0,0,0,0,0,0,1
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,1.4,Riyan Parag,Simarjeet Singh,good length,outside off stump,Deep Square Leg,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,1.5,Riyan Parag,Simarjeet Singh,short length,outside off stump,Mid-On,0,0,0,0,0,0,0,1
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,1.6,Nitish Rana,Simarjeet Singh,Short of good length,outside leg stump,Square Fine Leg,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,2.1,Nitish Rana,Mohammad Shami,Short of good length,outside off stump,,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,2.2,Nitish Rana,Mohammad Shami,good length,outside off stump,Third Man,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,2.3,Nitish Rana,Mohammad Shami,Full length,outside off stump,Covers,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,2.4,Nitish Rana,Mohammad Shami,short of good length,outside off stump,Long On,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,2.5,Nitish Rana,Mohammad Shami,Short of good length,wide outside off stump,Point,2,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,2.6,Nitish Rana,Mohammad Shami,Short of good length,outside off stump,,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,3.1,Sanju Samson,Simarjeet Singh,Short length,outside off stump,Mid-Wicket,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,3.2,Sanju Samson,Simarjeet Singh,Good length,outside off stump,,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,3.3,Sanju Samson,Simarjeet Singh,short length,outside off stump,Country,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,3.4,Sanju Samson,Simarjeet Singh,Good length,outside off stump,Mid-Wicket,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,3.5,Sanju Samson,Simarjeet Singh,short length,outside off stump,Deep Third Man,6,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,3.5,Sanju Samson,Simarjeet Singh,Short of good length,outside off stump,,0,1,1,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,3.6,Sanju Samson,Simarjeet Singh,short of good length,outside off stump,Point,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,4.1,Nitish Rana,Mohammad Shami,good length,outside off stump,Cow Corner,0,0,0,0,0,0,0,1
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,4.2,Dhruv Jurel,Mohammad Shami,Good length,outside off stump,Short Extra Covers,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,4.3,Dhruv Jurel,Mohammad Shami,Good length,on off stump,Country,2,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,4.4,Dhruv Jurel,Mohammad Shami,Short of good length,outside off stump,Point,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,4.5,Sanju Samson,Mohammad Shami,Short of good length,outside off stump,Mid-On,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,4.6,Sanju Samson,Mohammad Shami,full length,on leg stump,Square Leg,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,5.1,Dhruv Jurel,Pat Cummins,good length,outside off stump,Long On,6,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,5.2,Dhruv Jurel,Pat Cummins,good length,outside off stump,,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,5.3,Dhruv Jurel,Pat Cummins,good length,outside off stump,Long Off,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,5.4,Dhruv Jurel,Pat Cummins,Short of good length,outside off stump,Deep Backward Point,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,5.5,Sanju Samson,Pat Cummins,Short length,outside off stump,Country,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,5.6,Dhruv Jurel,Pat Cummins,Short length,outside off stump,Fine Leg,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,6.1,Sanju Samson,Abhishek Sharma,Full length,outside off stump,,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,6.2,Sanju Samson,Abhishek Sharma,Full length,outside off stump,Cover,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,6.3,Sanju Samson,Abhishek Sharma,Full length,outside leg stump,Country,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,6.4,Dhruv Jurel,Abhishek Sharma,full length,outside off stump,Long-On,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,6.5,Dhruv Jurel,Abhishek Sharma,Good length,on off stump,Short Extra Covers,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,6.6,Dhruv Jurel,Abhishek Sharma,Full length,outside off stump,Short Extra Covers,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,7.1,Sanju Samson,Adam Zampa,Good length,outside off stump,Deep Backward Point,2,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,7.2,Sanju Samson,Adam Zampa,full length,on middle stump,Straight,6,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,7.3,Sanju Samson,Adam Zampa,Good length,outside off stump,Point,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,7.4,Sanju Samson,Adam Zampa,Good length,outside off stump,Long-Off,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,7.5,Dhruv Jurel,Adam Zampa,Full length,on off stump,Mid-On,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,7.6,Sanju Samson,Adam Zampa,full length,outside off stump,Long On,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,8.1,Dhruv Jurel,Abhishek Sharma,full length,on middle stump,Extra Cover,6,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,8.2,Dhruv Jurel,Abhishek Sharma,Full length,outside leg stump,Backward Short Leg,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,8.3,Dhruv Jurel,Abhishek Sharma,Good length,on off stump,Wide Long-On,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,8.4,Sanju Samson,Abhishek Sharma,Short of good length,on off stump,Backward Square Leg,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,8.5,Sanju Samson,Abhishek Sharma,Full length,outside leg stump,Country,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,8.6,Dhruv Jurel,Abhishek Sharma,full length,outside leg stump,,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,9.1,Sanju Samson,Harshal Patel,Good length,outside off stump,,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,9.2,Sanju Samson,Harshal Patel,Yorker,on off stump,Country,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,9.3,Dhruv Jurel,Harshal Patel,good length,outside off stump,Long On,6,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,9.4,Dhruv Jurel,Harshal Patel,Short of good length,outside off stump,Deep Point,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,9.5,Sanju Samson,Harshal Patel,Full toss,outside off stump,Long-On,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,9.6,Dhruv Jurel,Harshal Patel,Short length,outside off stump,Deep Forward Square Leg,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,10.1,Dhruv Jurel,Adam Zampa,Full toss,outside off stump,Extra Covers,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,10.2,Sanju Samson,Adam Zampa,Full length,on middle stump,Long-Off,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,10.3,Dhruv Jurel,Adam Zampa,Full length,outside leg stump,Short Extra Covers,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,10.4,Dhruv Jurel,Adam Zampa,Good length,outside off stump,Point,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,10.5,Dhruv Jurel,Adam Zampa,Short of good length,outside off stump,Wide Long-On,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,10.6,Sanju Samson,Adam Zampa,Good length,outside off stump,Wide Long-Off,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,11.1,Sanju Samson,Pat Cummins,Short of good length,outside off stump,Deep Covers,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,11.2,Dhruv Jurel,Pat Cummins,Short of good length,outside off stump,Point,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,11.3,Dhruv Jurel,Pat Cummins,Short of good length,outside off stump,,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,11.4,Dhruv Jurel,Pat Cummins,Full length,outside off stump,Deep Covers,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,11.5,Sanju Samson,Pat Cummins,Short of good length,outside off stump,,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,11.6,Dhruv Jurel,Pat Cummins,Good length,outside off stump,,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,12.1,Sanju Samson,Simarjeet Singh,Short length,outside off stump,,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,12.2,Dhruv Jurel,Simarjeet Singh,good length,outside off stump,Long Off,6,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,12.2,Sanju Samson,Simarjeet Singh,Short of good length,outside off stump,Extra Covers,0,2,0,1,0,0,1,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,12.3,Dhruv Jurel,Simarjeet Singh,short length,outside off stump,Third Man,6,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,12.4,Dhruv Jurel,Simarjeet Singh,full length,outside off stump,Long On,6,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,12.4,Dhruv Jurel,Simarjeet Singh,Short length,outside off stump,,0,1,1,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,12.5,Dhruv Jurel,Simarjeet Singh,Short of good length,outside off stump,Deep Covers,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,12.6,Sanju Samson,Simarjeet Singh,full length,outside off stump,Cover,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,13.1,Dhruv Jurel,Harshal Patel,Short of good length,outside off stump,Deep Covers,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,13.1,Dhruv Jurel,Harshal Patel,Short of good length,outside off stump,,0,1,1,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,13.2,Sanju Samson,Harshal Patel,Good length,outside off stump,Short Extra Covers,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,13.3,Sanju Samson,Harshal Patel,Full length,outside off stump,Deep Covers,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,13.4,Dhruv Jurel,Harshal Patel,Short length,outside off stump,Country,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,13.5,Sanju Samson,Harshal Patel,good length,outside off stump,Cover,6,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,13.6,Sanju Samson,Harshal Patel,short length,outside off stump,Wicketkeeper,0,0,0,0,0,0,0,1
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,14.1,Dhruv Jurel,Adam Zampa,Good length,outside off stump,Point,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,14.2,Dhruv Jurel,Adam Zampa,full length,outside off stump,Cow Corner,0,0,0,0,0,0,0,1
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,14.3,Shubham Dubey,Adam Zampa,Good length,on leg stump,Country,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,14.4,Shimron Hetmyer,Adam Zampa,Full length,outside off stump,,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,14.5,Shimron Hetmyer,Adam Zampa,full length,outside off stump,Mid-Wicket,6,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,14.6,Shimron Hetmyer,Adam Zampa,Good length,on off stump,Country,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,15.1,Shimron Hetmyer,Harshal Patel,Yorker,outside off stump,Mid-Off,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,15.2,Shimron Hetmyer,Harshal Patel,Short length,outside off stump,Wide Long-On,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,15.3,Shubham Dubey,Harshal Patel,Short of good length,outside off stump,Deep Backward Square Leg,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,15.4,Shimron Hetmyer,Harshal Patel,Short of good length,outside off stump,Wide Long-On,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,15.5,Shubham Dubey,Harshal Patel,Short length,outside off stump,Square Third Man,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,15.6,Shimron Hetmyer,Harshal Patel,Short length,outside off stump,Mid-Wicket,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,16.1,Shubham Dubey,Pat Cummins,short length,outside off stump,Mid-Wicket,6,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,16.2,Shubham Dubey,Pat Cummins,Full length,outside off stump,Deep Backward Point,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,16.3,Shimron Hetmyer,Pat Cummins,Full length,outside off stump,Long-On,2,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,16.4,Shimron Hetmyer,Pat Cummins,Short of good length,outside leg stump,Long-On,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,16.5,Shubham Dubey,Pat Cummins,full length,outside off stump,Extra Cover,6,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,16.6,Shubham Dubey,Pat Cummins,short of good length,outside leg stump,Long-On,6,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,17.1,Shimron Hetmyer,Adam Zampa,Good length,on off stump,Mid-On,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,17.2,Shimron Hetmyer,Adam Zampa,full length,outside off stump,Straight,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,17.3,Shimron Hetmyer,Adam Zampa,full length,on leg stump,Mid-Wicket,6,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,17.3,Shimron Hetmyer,Adam Zampa,Short of good length,outside off stump,,0,1,1,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,17.4,Shimron Hetmyer,Adam Zampa,Full length,outside off stump,Cow Corner,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,17.5,Shubham Dubey,Adam Zampa,full length,outside off stump,Mid-Off,6,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,17.6,Shubham Dubey,Adam Zampa,short of good length,outside leg stump,Square Leg,4,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,18.1,Shimron Hetmyer,Pat Cummins,Full length,wide outside off stump,,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,18.2,Shimron Hetmyer,Pat Cummins,Full length,outside off stump,Long-On,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,18.3,Shimron Hetmyer,Pat Cummins,Short length,outside off stump,Country,2,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,18.3,Shubham Dubey,Pat Cummins,Short length,outside off stump,Deep Mid-Wicket,0,2,0,1,0,0,1,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,18.4,Shimron Hetmyer,Pat Cummins,good length,outside off stump,Mid-Wicket,6,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,18.4,Shimron Hetmyer,Pat Cummins,Short length,outside off stump,,0,1,1,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,18.5,Shimron Hetmyer,Pat Cummins,Short length,outside off stump,Mid-Wicket,2,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,18.6,Shimron Hetmyer,Pat Cummins,Short length,outside off stump,Deep Mid-Wicket,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,19.1,Shimron Hetmyer,Harshal Patel,Short length,outside off stump,Mid-Wicket,0,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,19.2,Shimron Hetmyer,Harshal Patel,Short length,outside off stump,Mid-Wicket,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,19.3,Shubham Dubey,Harshal Patel,Full length,outside off stump,Deep Covers,1,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,19.4,Shimron Hetmyer,Harshal Patel,short length,outside off stump,Long Off,6,0,0,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,19.4,Shimron Hetmyer,Harshal Patel,Short length,outside off stump,,0,1,1,0,0,0,0,0
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,19.5,Shimron Hetmyer,Harshal Patel,short length,outside off stump,Mid-Wicket,0,0,0,0,0,0,0,1
-2,202502,23 MAR 2025,"Rajiv Gandhi International Stadium, Hyderabad",Sunrisers Hyderabad,RR,SRH,2,19.6,Jofra Archer,Harshal Patel,yorker,on off stump,Long-On,1,0,0,0,0,0,0,0
+﻿match_no,match_id,date,venue,winner,batting_team,bowling_team,inning,overs,striker,striker_hand,bowler,bowler_style,delivery,pitching,shot_direction,runs_of_bat,extras,wide,noballs,legbyes,byes,panja,isWicket
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,0.1,Quinton De Kock,Left Handed Bat,Josh Hazlewood,Right-arm fast-medium,good length,on leg stump,Covers,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,0.2,Quinton De Kock,Left Handed Bat,Josh Hazlewood,Right-arm fast-medium,short of good length,on leg stump,Extra Cover,4,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,0.3,Quinton De Kock,Left Handed Bat,Josh Hazlewood,Right-arm fast-medium,Short of good length,outside leg stump,Straight,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,0.4,Quinton De Kock,Left Handed Bat,Josh Hazlewood,Right-arm fast-medium,Short of good length,on leg stump,,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,0.5,Quinton De Kock,Left Handed Bat,Josh Hazlewood,Right-arm fast-medium,short of good length,on leg stump,Wicketkeeper,0,0,0,0,0,0,0,1
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,0.6,Ajinkya Rahane,Right Handed Bat,Josh Hazlewood,Right-arm fast-medium,Good length,outside off stump,Short Mid-Wicket,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,1.1,Sunil Narine,Left Handed Bat,Yash Dayal,Left-arm fast-medium,short of good length,on off stump,,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,1.2,Sunil Narine,Left Handed Bat,Yash Dayal,Left-arm fast-medium,Yorker,on leg stump,,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,1.3,Sunil Narine,Left Handed Bat,Yash Dayal,Left-arm fast-medium,Short of good length,outside off stump,,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,1.4,Sunil Narine,Left Handed Bat,Yash Dayal,Left-arm fast-medium,Full length,outside off stump,Covers,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,1.5,Sunil Narine,Left Handed Bat,Yash Dayal,Left-arm fast-medium,Short of good length,outside off stump,Mid-Wicket,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,1.6,Ajinkya Rahane,Right Handed Bat,Yash Dayal,Left-arm fast-medium,Full length,outside leg stump,Mid-Wicket,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,2.1,Sunil Narine,Left Handed Bat,Josh Hazlewood,Right-arm fast-medium,Short of good length,outside leg stump,Mid-Wicket,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,2.2,Sunil Narine,Left Handed Bat,Josh Hazlewood,Right-arm fast-medium,Short of good length,on off stump,,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,2.3,Sunil Narine,Left Handed Bat,Josh Hazlewood,Right-arm fast-medium,Short of good length,on leg stump,Mid-Wicket,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,2.4,Sunil Narine,Left Handed Bat,Josh Hazlewood,Right-arm fast-medium,short length,outside leg stump,Wicketkeeper,4,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,2.5,Sunil Narine,Left Handed Bat,Josh Hazlewood,Right-arm fast-medium,Short of good length,outside leg stump,Mid-On,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,2.6,Sunil Narine,Left Handed Bat,Josh Hazlewood,Right-arm fast-medium,Short of good length,on off stump,Long-Off,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,3.1,Ajinkya Rahane,Right Handed Bat,Rasikh Dar,Right-arm fast-medium,short of good length,outside off stump,Straight,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,3.2,Ajinkya Rahane,Right Handed Bat,Rasikh Dar,Right-arm fast-medium,good length,on leg stump,Deep Fine Leg,4,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,3.3,Ajinkya Rahane,Right Handed Bat,Rasikh Dar,Right-arm fast-medium,short of good length,outside off stump,Square Leg,6,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,3.4,Ajinkya Rahane,Right Handed Bat,Rasikh Dar,Right-arm fast-medium,Good length,outside off stump,Covers,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,3.5,Ajinkya Rahane,Right Handed Bat,Rasikh Dar,Right-arm fast-medium,short of good length,outside off stump,Long-On,6,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,3.6,Ajinkya Rahane,Right Handed Bat,Rasikh Dar,Right-arm fast-medium,Good length,outside off stump,Short Third Man,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,4.1,Sunil Narine,Left Handed Bat,Krunal Pandya,Left-arm orthodox,good length,on off stump,Long-On,6,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,4.2,Sunil Narine,Left Handed Bat,Krunal Pandya,Left-arm orthodox,Full length,on leg stump,Wide Long-On,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,4.3,Ajinkya Rahane,Right Handed Bat,Krunal Pandya,Left-arm orthodox,Good length,on leg stump,Backward Short Leg,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,4.4,Ajinkya Rahane,Right Handed Bat,Krunal Pandya,Left-arm orthodox,Full length,on leg stump,Third Man,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,4.5,Ajinkya Rahane,Right Handed Bat,Krunal Pandya,Left-arm orthodox,full length,on leg stump,Deep Square Leg,4,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,4.6,Ajinkya Rahane,Right Handed Bat,Krunal Pandya,Left-arm orthodox,full length,on middle stump,Wide Long-On,4,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,5.1,Sunil Narine,Left Handed Bat,Yash Dayal,Left-arm fast-medium,full length,on leg stump,Mid-On,4,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,5.2,Sunil Narine,Left Handed Bat,Yash Dayal,Left-arm fast-medium,Good length,outside off stump,Long-On,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,5.3,Ajinkya Rahane,Right Handed Bat,Yash Dayal,Left-arm fast-medium,full length,on leg stump,Third Man,4,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,5.4,Ajinkya Rahane,Right Handed Bat,Yash Dayal,Left-arm fast-medium,full length,outside leg stump,Deep Backward Square Leg,6,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,5.5,Ajinkya Rahane,Right Handed Bat,Yash Dayal,Left-arm fast-medium,full toss,outside off stump,Point,4,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,5.6,Ajinkya Rahane,Right Handed Bat,Yash Dayal,Left-arm fast-medium,Good length,outside off stump,Deep Backward Point,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,6.1,Ajinkya Rahane,Right Handed Bat,Suyash Sharma,Right-arm legbreak,short of good length,outside off stump,,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,6.2,Ajinkya Rahane,Right Handed Bat,Suyash Sharma,Right-arm legbreak,good length,outside off stump,Point,4,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,6.3,Ajinkya Rahane,Right Handed Bat,Suyash Sharma,Right-arm legbreak,Good length,outside off stump,Forward Point,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,6.4,Ajinkya Rahane,Right Handed Bat,Suyash Sharma,Right-arm legbreak,Full length,outside off stump,Mid-Wicket,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,6.5,Ajinkya Rahane,Right Handed Bat,Suyash Sharma,Right-arm legbreak,Good length,outside off stump,,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,6.6,Ajinkya Rahane,Right Handed Bat,Suyash Sharma,Right-arm legbreak,Good length,outside off stump,Wide Long-Off,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,7.1,Ajinkya Rahane,Right Handed Bat,Rasikh Dar,Right-arm fast-medium,Good length,on middle stump,Mid-Wicket,0,1,0,0,1,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,7.2,Sunil Narine,Left Handed Bat,Rasikh Dar,Right-arm fast-medium,Yorker,outside off stump,,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,7.2,Sunil Narine,Left Handed Bat,Rasikh Dar,Right-arm fast-medium,Good length,wide outside off stump,,0,1,1,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,7.3,Ajinkya Rahane,Right Handed Bat,Rasikh Dar,Right-arm fast-medium,Short of good length,outside off stump,Long-On,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,7.4,Sunil Narine,Left Handed Bat,Rasikh Dar,Right-arm fast-medium,Full length,outside off stump,Long-Off,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,7.4,Sunil Narine,Left Handed Bat,Rasikh Dar,Right-arm fast-medium,Short length,outside off stump,,0,1,1,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,7.5,Sunil Narine,Left Handed Bat,Rasikh Dar,Right-arm fast-medium,yorker,outside off stump,Third Man,4,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,7.6,Sunil Narine,Left Handed Bat,Rasikh Dar,Right-arm fast-medium,Short of good length,wide outside off stump,Covers,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,8.1,Ajinkya Rahane,Right Handed Bat,Suyash Sharma,Right-arm legbreak,full length,outside off stump,Deep Midwicket,6,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,8.1,Ajinkya Rahane,Right Handed Bat,Suyash Sharma,Right-arm legbreak,Full length,outside leg stump,Square Leg,0,1,1,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,8.2,Ajinkya Rahane,Right Handed Bat,Suyash Sharma,Right-arm legbreak,Good length,outside off stump,Deep Extra Covers,2,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,8.3,Ajinkya Rahane,Right Handed Bat,Suyash Sharma,Right-arm legbreak,Full length,outside off stump,Deep Covers,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,8.4,Sunil Narine,Left Handed Bat,Suyash Sharma,Right-arm legbreak,Full length,outside off stump,Long-Off,2,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,8.5,Sunil Narine,Left Handed Bat,Suyash Sharma,Right-arm legbreak,full length,outside off stump,Deep Extra Cover,6,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,8.6,Sunil Narine,Left Handed Bat,Suyash Sharma,Right-arm legbreak,full length,outside off stump,Straight,4,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,9.1,Ajinkya Rahane,Right Handed Bat,Rasikh Dar,Right-arm fast-medium,Good length,outside off stump,Mid-Wicket,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,9.2,Ajinkya Rahane,Right Handed Bat,Rasikh Dar,Right-arm fast-medium,Short length,outside off stump,Deep Mid-Wicket,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,9.3,Sunil Narine,Left Handed Bat,Rasikh Dar,Right-arm fast-medium,full toss,on leg stump,Deep Extra Cover,4,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,9.4,Sunil Narine,Left Handed Bat,Rasikh Dar,Right-arm fast-medium,Short of good length,outside off stump,,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,9.5,Sunil Narine,Left Handed Bat,Rasikh Dar,Right-arm fast-medium,short of good length,outside off stump,Wide Long-On,6,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,9.6,Sunil Narine,Left Handed Bat,Rasikh Dar,Right-arm fast-medium,good length,outside off,Wicketkeeper,0,0,0,0,0,0,0,1
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,10.1,Ajinkya Rahane,Right Handed Bat,Krunal Pandya,Left-arm orthodox,Good length,outside off stump,Country,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,10.2,Venkatesh Iyer,Left Handed Bat,Krunal Pandya,Left-arm orthodox,Good length,outside leg stump,Country,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,10.3,Ajinkya Rahane,Right Handed Bat,Krunal Pandya,Left-arm orthodox,good length,on leg stump,Mid-Wicket,0,0,0,0,0,0,0,1
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,10.4,Angkrish Raghuvanshi,Right Handed Bat,Krunal Pandya,Left-arm orthodox,Good length,on leg stump,Short Square Leg,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,10.5,Venkatesh Iyer,Left Handed Bat,Krunal Pandya,Left-arm orthodox,Good length,on leg stump,Mid-Wicket,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,10.6,Venkatesh Iyer,Left Handed Bat,Krunal Pandya,Left-arm orthodox,Full length,outside leg stump,Mid-Wicket,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,11.1,Angkrish Raghuvanshi,Right Handed Bat,Suyash Sharma,Right-arm legbreak,Full length,on off stump,Deep Mid-Wicket,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,11.2,Venkatesh Iyer,Left Handed Bat,Suyash Sharma,Right-arm legbreak,Full length,outside off stump,Forward Point,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,11.3,Venkatesh Iyer,Left Handed Bat,Suyash Sharma,Right-arm legbreak,good length,outside leg stump,Deep Backward Square Leg,4,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,11.4,Venkatesh Iyer,Left Handed Bat,Suyash Sharma,Right-arm legbreak,Good length,on off stump,Cover,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,11.5,Angkrish Raghuvanshi,Right Handed Bat,Suyash Sharma,Right-arm legbreak,full length,outside off stump,Long Off,4,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,11.6,Angkrish Raghuvanshi,Right Handed Bat,Suyash Sharma,Right-arm legbreak,good length,outside off stump,Deep Point,4,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,12.1,Venkatesh Iyer,Left Handed Bat,Krunal Pandya,Left-arm orthodox,good length,on leg stump,Long-On,0,0,0,0,0,0,0,1
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,12.1,Venkatesh Iyer,Left Handed Bat,Krunal Pandya,Left-arm orthodox,Short length,outside leg stump,,0,1,1,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,12.2,Rinku Singh,Left Handed Bat,Krunal Pandya,Left-arm orthodox,Full length,on off stump,Long-Off,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,12.3,Angkrish Raghuvanshi,Right Handed Bat,Krunal Pandya,Left-arm orthodox,Good length,on middle stump,Mid-Wicket,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,12.4,Rinku Singh,Left Handed Bat,Krunal Pandya,Left-arm orthodox,Good length,on middle stump,Short Third Man,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,12.5,Angkrish Raghuvanshi,Right Handed Bat,Krunal Pandya,Left-arm orthodox,Good length,outside off stump,Wide Long-On,2,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,12.6,Angkrish Raghuvanshi,Right Handed Bat,Krunal Pandya,Left-arm orthodox,Full length,outside off stump,Deep Mid-Wicket,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,13.1,Angkrish Raghuvanshi,Right Handed Bat,Liam Livingstone,Right-arm legbreak,good length,on off stump,Point,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,13.2,Rinku Singh,Left Handed Bat,Liam Livingstone,Right-arm legbreak,Good length,outside off stump,Wide Long-On,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,13.3,Angkrish Raghuvanshi,Right Handed Bat,Liam Livingstone,Right-arm legbreak,Good length,on off stump,Deep Mid-Wicket,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,13.4,Rinku Singh,Left Handed Bat,Liam Livingstone,Right-arm legbreak,good length,outside off stump,Long-On,4,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,13.5,Rinku Singh,Left Handed Bat,Liam Livingstone,Right-arm legbreak,Full length,on off stump,Deep Mid-Wicket,2,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,13.6,Rinku Singh,Left Handed Bat,Liam Livingstone,Right-arm legbreak,Good length,on off stump,Deep Square Leg,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,14.1,Rinku Singh,Left Handed Bat,Krunal Pandya,Left-arm orthodox,Good length,on leg stump,Mid-Wicket,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,14.2,Angkrish Raghuvanshi,Right Handed Bat,Krunal Pandya,Left-arm orthodox,Good length,outside off stump,Deep Mid-Wicket,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,14.3,Rinku Singh,Left Handed Bat,Krunal Pandya,Left-arm orthodox,Good length,outside leg stump,,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,14.4,Rinku Singh,Left Handed Bat,Krunal Pandya,Left-arm orthodox,Good length,on middle stump,Country,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,14.5,Angkrish Raghuvanshi,Right Handed Bat,Krunal Pandya,Left-arm orthodox,Good length,outside off stump,Long-On,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,14.6,Rinku Singh,Left Handed Bat,Krunal Pandya,Left-arm orthodox,good length,on leg stump,Mid-Wicket,0,0,0,0,0,0,0,1
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,15.1,Angkrish Raghuvanshi,Right Handed Bat,Suyash Sharma,Right-arm legbreak,Good length,outside off stump,Deep Covers,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,15.2,Andre Russell,Right Handed Bat,Suyash Sharma,Right-arm legbreak,Full length,on off stump,Mid-On,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,15.3,Andre Russell,Right Handed Bat,Suyash Sharma,Right-arm legbreak,good length,outside off stump,Point,4,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,15.4,Andre Russell,Right Handed Bat,Suyash Sharma,Right-arm legbreak,full length,outside off stump,Cow Corner,0,0,0,0,0,0,0,1
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,15.5,Ramandeep Singh,Right Handed Bat,Suyash Sharma,Right-arm legbreak,Full length,outside off stump,Mid-On,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,15.6,Ramandeep Singh,Right Handed Bat,Suyash Sharma,Right-arm legbreak,Full length,on middle stump,Mid-Wicket,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,16.1,Ramandeep Singh,Right Handed Bat,Liam Livingstone,Right-arm legbreak,good length,on off stump,Wide Long-On,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,16.2,Angkrish Raghuvanshi,Right Handed Bat,Liam Livingstone,Right-arm legbreak,Good length,on leg stump,Deep Mid-Wicket,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,16.3,Ramandeep Singh,Right Handed Bat,Liam Livingstone,Right-arm legbreak,Good length,on off stump,Short Extra Covers,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,16.4,Angkrish Raghuvanshi,Right Handed Bat,Liam Livingstone,Right-arm legbreak,Good length,on leg stump,,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,16.5,Angkrish Raghuvanshi,Right Handed Bat,Liam Livingstone,Right-arm legbreak,Good length,outside off stump,Long-On,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,16.6,Ramandeep Singh,Right Handed Bat,Liam Livingstone,Right-arm legbreak,Good length,outside off stump,Forward Point,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,17.1,Angkrish Raghuvanshi,Right Handed Bat,Josh Hazlewood,Right-arm fast-medium,short length,outside off stump,Mid-Wicket,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,17.2,Angkrish Raghuvanshi,Right Handed Bat,Josh Hazlewood,Right-arm fast-medium,Short of good length,outside off stump,Mid-Wicket,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,17.3,Ramandeep Singh,Right Handed Bat,Josh Hazlewood,Right-arm fast-medium,Short of good length,outside off stump,Long-On,0,1,0,0,1,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,17.4,Angkrish Raghuvanshi,Right Handed Bat,Josh Hazlewood,Right-arm fast-medium,short of good length,outside off stump,Long-On,6,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,17.5,Angkrish Raghuvanshi,Right Handed Bat,Josh Hazlewood,Right-arm fast-medium,Short of good length,outside off stump,Long-On,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,17.6,Ramandeep Singh,Right Handed Bat,Josh Hazlewood,Right-arm fast-medium,Yorker,outside off stump,Square Third Man,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,18.1,Ramandeep Singh,Right Handed Bat,Yash Dayal,Left-arm fast-medium,Short of good length,on off stump,Covers,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,18.2,Angkrish Raghuvanshi,Right Handed Bat,Yash Dayal,Left-arm fast-medium,Short length,outside leg stump,Deep Mid-Wicket,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,18.3,Ramandeep Singh,Right Handed Bat,Yash Dayal,Left-arm fast-medium,Good length,outside leg stump,Deep Mid-Wicket,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,18.4,Angkrish Raghuvanshi,Right Handed Bat,Yash Dayal,Left-arm fast-medium,Full length,outside off stump,Mid-Off,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,18.5,Angkrish Raghuvanshi,Right Handed Bat,Yash Dayal,Left-arm fast-medium,short length,outside leg stump,Wicketkeeper,0,0,0,0,0,0,0,1
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,18.6,Harshit Rana,Right Handed Bat,Yash Dayal,Left-arm fast-medium,Good length,on leg stump,Deep Forward Point,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,19.1,Harshit Rana,Right Handed Bat,Josh Hazlewood,Right-arm fast-medium,Short length,outside off stump,Mid-Wicket,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,19.2,Harshit Rana,Right Handed Bat,Josh Hazlewood,Right-arm fast-medium,Short length,outside off stump,Mid-Wicket,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,19.3,Harshit Rana,Right Handed Bat,Josh Hazlewood,Right-arm fast-medium,Short length,outside off stump,Mid-Wicket,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,19.4,Harshit Rana,Right Handed Bat,Josh Hazlewood,Right-arm fast-medium,short length,outside off stump,Fine Leg,4,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,19.5,Harshit Rana,Right Handed Bat,Josh Hazlewood,Right-arm fast-medium,short length,outside off stump,Wicketkeeper,0,0,0,0,0,0,0,1
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,KKR,RCB,1,19.6,Spencer Johnson,Left Handed Bat,Josh Hazlewood,Right-arm fast-medium,Short of good length,outside leg stump,Mid-Wicket,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,0.1,Phil Salt,Right Handed Bat,Vaibhav Arora,Right-arm fast-medium,good length,outside off stump,Extra Cover,4,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,0.2,Phil Salt,Right Handed Bat,Vaibhav Arora,Right-arm fast-medium,Good length,outside off stump,Long-On,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,0.2,Phil Salt,Right Handed Bat,Vaibhav Arora,Right-arm fast-medium,Full length,on leg stump,,0,1,1,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,0.3,Phil Salt,Right Handed Bat,Vaibhav Arora,Right-arm fast-medium,Good length,outside off stump,Covers,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,0.4,Phil Salt,Right Handed Bat,Vaibhav Arora,Right-arm fast-medium,Full length,on middle stump,Mid-On,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,0.5,Virat Kohli,Right Handed Bat,Vaibhav Arora,Right-arm fast-medium,full length,outside off stump,Mid-Wicket,4,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,0.6,Virat Kohli,Right Handed Bat,Vaibhav Arora,Right-arm fast-medium,Full length,outside off stump,Square Third Man,2,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,1.1,Phil Salt,Right Handed Bat,Spencer Johnson,Left-arm fast,full length,outside off stump,Long-Off,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,1.2,Phil Salt,Right Handed Bat,Spencer Johnson,Left-arm fast,Good length,on middle stump,Cover,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,1.3,Phil Salt,Right Handed Bat,Spencer Johnson,Left-arm fast,good length,on middle stump,Cover Point,4,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,1.4,Phil Salt,Right Handed Bat,Spencer Johnson,Left-arm fast,Good length,on leg stump,Short Extra Covers,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,1.5,Phil Salt,Right Handed Bat,Spencer Johnson,Left-arm fast,Full length,outside off stump,Mid-On,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,1.6,Phil Salt,Right Handed Bat,Spencer Johnson,Left-arm fast,Short of good length,outside leg stump,Mid-Wicket,0,1,0,0,1,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,2.1,Phil Salt,Right Handed Bat,Vaibhav Arora,Right-arm fast-medium,full length,outside off stump,Mid-On,4,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,2.2,Phil Salt,Right Handed Bat,Vaibhav Arora,Right-arm fast-medium,full length,outside off stump,Long-On,6,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,2.3,Phil Salt,Right Handed Bat,Vaibhav Arora,Right-arm fast-medium,Full length,outside off stump,Deep Square Leg,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,2.4,Virat Kohli,Right Handed Bat,Vaibhav Arora,Right-arm fast-medium,good length,outside off stump,Straight,4,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,2.5,Virat Kohli,Right Handed Bat,Vaibhav Arora,Right-arm fast-medium,Full length,outside off stump,Extra Covers,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,2.6,Phil Salt,Right Handed Bat,Vaibhav Arora,Right-arm fast-medium,short length,outside off stump,Cover Point,4,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,3.1,Virat Kohli,Right Handed Bat,Varun Chakaravarthy,Right-arm legbreak,good length,outside off stump,Long-On,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,3.2,Phil Salt,Right Handed Bat,Varun Chakaravarthy,Right-arm legbreak,Good length,on off stump,Short Fine Leg,2,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,3.3,Phil Salt,Right Handed Bat,Varun Chakaravarthy,Right-arm legbreak,good length,outside off stump,Long Off,4,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,3.4,Phil Salt,Right Handed Bat,Varun Chakaravarthy,Right-arm legbreak,full length,on leg stump,Mid-Off,6,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,3.5,Phil Salt,Right Handed Bat,Varun Chakaravarthy,Right-arm legbreak,full length,outside off stump,Mid-On,4,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,3.6,Phil Salt,Right Handed Bat,Varun Chakaravarthy,Right-arm legbreak,good length,on leg stump,Fine Leg,4,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,4.1,Virat Kohli,Right Handed Bat,Spencer Johnson,Left-arm fast,full length,outside off stump,Long Off,6,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,4.2,Virat Kohli,Right Handed Bat,Spencer Johnson,Left-arm fast,full length,outside off stump,Straight,6,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,4.3,Virat Kohli,Right Handed Bat,Spencer Johnson,Left-arm fast,Full length,outside off stump,Mid-On,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,4.4,Virat Kohli,Right Handed Bat,Spencer Johnson,Left-arm fast,Short length,outside leg stump,Deep Square Leg,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,4.5,Phil Salt,Right Handed Bat,Spencer Johnson,Left-arm fast,Short of good length,outside leg stump,Point,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,4.6,Phil Salt,Right Handed Bat,Spencer Johnson,Left-arm fast,short of good length,outside leg stump,Deep Third Man,4,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,5.1,Virat Kohli,Right Handed Bat,Harshit Rana,Right-arm fast-medium,Short of good length,outside off stump,Cover,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,5.2,Virat Kohli,Right Handed Bat,Harshit Rana,Right-arm fast-medium,Short of good length,outside off stump,Mid-Off,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,5.3,Phil Salt,Right Handed Bat,Harshit Rana,Right-arm fast-medium,Good length,outside leg stump,Long-On,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,5.4,Phil Salt,Right Handed Bat,Harshit Rana,Right-arm fast-medium,Short length,outside off stump,Deep Mid-Wicket,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,5.5,Virat Kohli,Right Handed Bat,Harshit Rana,Right-arm fast-medium,Good length,outside off stump,Cover,2,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,5.6,Virat Kohli,Right Handed Bat,Harshit Rana,Right-arm fast-medium,Short of good length,outside off stump,Square Third Man,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,6.1,Virat Kohli,Right Handed Bat,Varun Chakaravarthy,Right-arm legbreak,Good length,outside off stump,,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,6.2,Virat Kohli,Right Handed Bat,Varun Chakaravarthy,Right-arm legbreak,full length,on off stump,Deep Midwicket,4,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,6.3,Virat Kohli,Right Handed Bat,Varun Chakaravarthy,Right-arm legbreak,Good length,on leg stump,Deep Backward Square Leg,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,6.4,Phil Salt,Right Handed Bat,Varun Chakaravarthy,Right-arm legbreak,Good length,outside off stump,,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,6.5,Phil Salt,Right Handed Bat,Varun Chakaravarthy,Right-arm legbreak,Full length,outside off stump,Long-Off,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,6.6,Virat Kohli,Right Handed Bat,Varun Chakaravarthy,Right-arm legbreak,Full length,outside off stump,Short Extra Covers,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,7.1,Phil Salt,Right Handed Bat,Sunil Narine,Right-arm offbreak,Full length,on leg stump,Square Leg,0,1,0,0,1,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,7.2,Virat Kohli,Right Handed Bat,Sunil Narine,Right-arm offbreak,Full length,on off stump,Backward Short Leg,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,7.3,Virat Kohli,Right Handed Bat,Sunil Narine,Right-arm offbreak,Good length,outside off stump,Deep Mid-Wicket,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,7.4,Phil Salt,Right Handed Bat,Sunil Narine,Right-arm offbreak,Good length,outside off stump,Long-Off,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,7.5,Virat Kohli,Right Handed Bat,Sunil Narine,Right-arm offbreak,Good length,outside off stump,Country,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,7.6,Phil Salt,Right Handed Bat,Sunil Narine,Right-arm offbreak,Good length,outside off stump,Deep Covers,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,8.1,Phil Salt,Right Handed Bat,Varun Chakaravarthy,Right-arm legbreak,good length,outside off stump,Deep Square Leg,4,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,8.2,Phil Salt,Right Handed Bat,Varun Chakaravarthy,Right-arm legbreak,Good length,outside off stump,,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,8.3,Phil Salt,Right Handed Bat,Varun Chakaravarthy,Right-arm legbreak,full length,outside off stump,Wicketkeeper,0,0,0,0,0,0,0,1
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,8.4,Devdutt Padikkal,Left Handed Bat,Varun Chakaravarthy,Right-arm legbreak,Good length,outside off stump,,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,8.5,Devdutt Padikkal,Left Handed Bat,Varun Chakaravarthy,Right-arm legbreak,Good length,outside off stump,,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,8.6,Devdutt Padikkal,Left Handed Bat,Varun Chakaravarthy,Right-arm legbreak,Good length,on middle stump,Country,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,9.1,Devdutt Padikkal,Left Handed Bat,Sunil Narine,Right-arm offbreak,Good length,on off stump,Wide Long-On,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,9.2,Virat Kohli,Right Handed Bat,Sunil Narine,Right-arm offbreak,Good length,on off stump,,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,9.3,Virat Kohli,Right Handed Bat,Sunil Narine,Right-arm offbreak,Full length,on off stump,Deep Mid-Wicket,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,9.4,Devdutt Padikkal,Left Handed Bat,Sunil Narine,Right-arm offbreak,Good length,outside off stump,Wide Long-On,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,9.5,Virat Kohli,Right Handed Bat,Sunil Narine,Right-arm offbreak,Good length,on off stump,Deep Mid-Wicket,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,9.6,Devdutt Padikkal,Left Handed Bat,Sunil Narine,Right-arm offbreak,good length,outside off stump,Country,4,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,10.1,Virat Kohli,Right Handed Bat,Varun Chakaravarthy,Right-arm legbreak,Good length,outside off stump,Deep Point,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,10.2,Devdutt Padikkal,Left Handed Bat,Varun Chakaravarthy,Right-arm legbreak,Full length,outside off stump,Wide Long-On,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,10.3,Virat Kohli,Right Handed Bat,Varun Chakaravarthy,Right-arm legbreak,full length,outside off stump,Wide Long-On,6,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,10.4,Virat Kohli,Right Handed Bat,Varun Chakaravarthy,Right-arm legbreak,Good length,outside off stump,Mid-Wicket,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,10.5,Devdutt Padikkal,Left Handed Bat,Varun Chakaravarthy,Right-arm legbreak,Good length,outside leg stump,Deep Square Leg,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,10.6,Virat Kohli,Right Handed Bat,Varun Chakaravarthy,Right-arm legbreak,Good length,outside off stump,Point,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,11.1,Virat Kohli,Right Handed Bat,Sunil Narine,Right-arm offbreak,Good length,outside off stump,Deep Covers,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,11.2,Devdutt Padikkal,Left Handed Bat,Sunil Narine,Right-arm offbreak,Good length,outside off stump,Deep Mid-Wicket,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,11.3,Virat Kohli,Right Handed Bat,Sunil Narine,Right-arm offbreak,Full length,outside off stump,Deep Mid-Wicket,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,11.4,Devdutt Padikkal,Left Handed Bat,Sunil Narine,Right-arm offbreak,full length,outside off stump,Straight,0,0,0,0,0,0,0,1
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,11.5,Rajat Patidar,Right Handed Bat,Sunil Narine,Right-arm offbreak,Good length,on leg stump,Short Mid-Wicket,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,11.6,Rajat Patidar,Right Handed Bat,Sunil Narine,Right-arm offbreak,Full length,on middle stump,Deep Mid-Wicket,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,12.1,Rajat Patidar,Right Handed Bat,Harshit Rana,Right-arm fast-medium,Short of good length,outside off stump,,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,12.2,Rajat Patidar,Right Handed Bat,Harshit Rana,Right-arm fast-medium,Short of good length,outside off stump,,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,12.3,Rajat Patidar,Right Handed Bat,Harshit Rana,Right-arm fast-medium,Full length,on off stump,Country,2,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,12.4,Rajat Patidar,Right Handed Bat,Harshit Rana,Right-arm fast-medium,Full length,outside off stump,Country,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,12.5,Virat Kohli,Right Handed Bat,Harshit Rana,Right-arm fast-medium,good length,outside off stump,Extra Cover,4,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,12.6,Virat Kohli,Right Handed Bat,Harshit Rana,Right-arm fast-medium,Good length,outside off stump,Short Extra Covers,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,13.1,Virat Kohli,Right Handed Bat,Sunil Narine,Right-arm offbreak,Good length,on off stump,Mid-Wicket,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,13.2,Rajat Patidar,Right Handed Bat,Sunil Narine,Right-arm offbreak,full length,outside off stump,Long-On,6,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,13.3,Rajat Patidar,Right Handed Bat,Sunil Narine,Right-arm offbreak,Good length,on leg stump,Deep Square Leg,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,13.4,Virat Kohli,Right Handed Bat,Sunil Narine,Right-arm offbreak,Good length,on off stump,Deep Mid-Wicket,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,13.5,Rajat Patidar,Right Handed Bat,Sunil Narine,Right-arm offbreak,Good length,outside off stump,Deep Forward Square Leg,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,13.6,Virat Kohli,Right Handed Bat,Sunil Narine,Right-arm offbreak,Good length,outside off stump,Country,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,14.1,Virat Kohli,Right Handed Bat,Harshit Rana,Right-arm fast-medium,Good length,outside off stump,Long-On,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,14.2,Rajat Patidar,Right Handed Bat,Harshit Rana,Right-arm fast-medium,good length,outside off stump,Extra Cover,4,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,14.3,Rajat Patidar,Right Handed Bat,Harshit Rana,Right-arm fast-medium,good length,on off stump,Short Fine Leg,4,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,14.4,Rajat Patidar,Right Handed Bat,Harshit Rana,Right-arm fast-medium,Short of good length,outside off stump,Square Fine Leg,2,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,14.5,Rajat Patidar,Right Handed Bat,Harshit Rana,Right-arm fast-medium,good length,outside off stump,Backward Point,4,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,14.6,Rajat Patidar,Right Handed Bat,Harshit Rana,Right-arm fast-medium,short of good length,outside off stump,Backward Point,4,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,15.1,Virat Kohli,Right Handed Bat,Vaibhav Arora,Right-arm fast-medium,Good length,outside off stump,Mid-Off,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,15.2,Rajat Patidar,Right Handed Bat,Vaibhav Arora,Right-arm fast-medium,short of good length,outside off stump,Third Man,4,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,15.3,Rajat Patidar,Right Handed Bat,Vaibhav Arora,Right-arm fast-medium,good length,outside off stump,Straight,0,0,0,0,0,0,0,1
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,15.4,Liam Livingstone,Right Handed Bat,Vaibhav Arora,Right-arm fast-medium,short length,outside off stump,Square Leg,4,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,15.5,Liam Livingstone,Right Handed Bat,Vaibhav Arora,Right-arm fast-medium,Good length,outside off stump,Long-On,0,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,15.6,Liam Livingstone,Right Handed Bat,Vaibhav Arora,Right-arm fast-medium,Short of good length,outside off stump,Deep Forward Point,1,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,16.1,Liam Livingstone,Right Handed Bat,Spencer Johnson,Left-arm fast,short length,outside leg stump,Fine Leg,6,0,0,0,0,0,0,0
+1,202501,22 MAR 2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,RCB,KKR,2,16.2,Liam Livingstone,Right Handed Bat,Spencer Johnson,Left-arm fast,full length,outside off stump,Mid-On,4,0,0,0,0,0,0,0
